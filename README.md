@@ -1,2 +1,2 @@
 # tf-sec-ops
-Sample code for setting up continuous security for a Terraform codebase
+I utilize this sample code to setting up continuous security for a Terraform codebase via Github Actions and checkov.
